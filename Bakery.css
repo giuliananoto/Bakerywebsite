@@ -1,0 +1,20 @@
+body {
+	background-color: #FFFFFF;
+}
+
+#cupcake {
+	padding-top: 10px;
+	padding-bottom: 0px;
+	height: 125px;
+}
+
+.center{
+	text-align: center;
+	margin: 0 auto;
+}
+
+#header {
+	font-size: 18px;
+	font-family: 'Josefin Slab', serif;
+	font-weight: 300;
+}
