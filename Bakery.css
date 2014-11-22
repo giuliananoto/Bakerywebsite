@@ -27,13 +27,29 @@ hr {
 
 ul {
 	list-style-type: none; 
-	float: center;
     width: 100%;
-    padding: 5px;
     margin: 0;
+    text-align: center;
+}
+
+.btn {
+	background-color: #eaccde;
+	width: 100px;
 }
 
 .btn:hover {
 	background-color: #7bcbc6;
 }
 
+
+li {
+	display: inline;
+	font-family: 'Josefin Slab', serif;
+	font-weight: 700;
+	padding-right: 15px;
+    padding-left: 15px;
+}
+
+.dropdown-menu {
+	background-color: #eaccde; 
+}
