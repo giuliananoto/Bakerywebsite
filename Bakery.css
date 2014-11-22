@@ -1,5 +1,5 @@
 body {
-	background-color: #FFFFFF;
+	background-color: #def4f0;
 }
 
 .center{
@@ -10,11 +10,11 @@ body {
 #cupcake {
 	padding-top: 10px;
 	padding-bottom: 0px;
-	height: 125px;
+	height: 110px;
 }
 
 #header {
-	font-size: 19px;
+	font-size: 22px;
 	font-family: 'Josefin Slab', serif;
 	font-weight: 300;
 	color: #7bcbc6;
@@ -34,22 +34,36 @@ ul {
 
 .btn {
 	background-color: #eaccde;
-	width: 100px;
+	width: 150px;
+}
+
+.btn-default {
+	color: white;
+	font-family: 'Josefin Slab', serif;
+	font-weight: 400;
+	font-size: 17px;
 }
 
 .btn:hover {
 	background-color: #7bcbc6;
+	color: white;
 }
 
 
 li {
 	display: inline;
-	font-family: 'Josefin Slab', serif;
-	font-weight: 700;
 	padding-right: 15px;
     padding-left: 15px;
 }
 
 .dropdown-menu {
 	background-color: #eaccde; 
+	font-family: 'Josefin Slab', serif;
+	font-size: 14px;
+}
+
+.dropdown-menu>li>a {
+	padding-left: 11px;
+	color: white;
+
 }
