@@ -74,7 +74,7 @@ ul {
 }
 
 #buns {
-	padding-top: 20px;
+	padding-top: 5px;
 	opacity: 0.8;
 	height: 450px; 
 	min-width: 700px;
@@ -82,6 +82,7 @@ ul {
 }
 
 #middlebox {
+	float: center;
 	background-color: white;
 	opacity: 0.5;
 	height: 450px;
@@ -93,4 +94,8 @@ ul {
 #text {
 	opacity: 1.0;
 	word-wrap: break-word;
+}
+
+textarea {
+	margin-bottom: 20px;
 }
