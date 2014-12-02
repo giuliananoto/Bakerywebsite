@@ -35,6 +35,7 @@ ul {
 .btn {
 	background-color: #eaccde;
 	width: 150px;
+	margin-bottom: 20px;
 }
 
 .btn-default {
@@ -70,4 +71,26 @@ li {
 
 ul {
 	padding:0px;
+}
+
+#buns {
+	padding-top: 20px;
+	opacity: 0.8;
+	height: 450px; 
+	min-width: 700px;
+	border-radius: 20px;
+}
+
+#middlebox {
+	background-color: white;
+	opacity: 0.5;
+	height: 450px;
+	width: 900px;
+	padding: 20px;
+	border-radius: 10px;
+}
+
+#text {
+	opacity: 1.0;
+	word-wrap: break-word;
 }
