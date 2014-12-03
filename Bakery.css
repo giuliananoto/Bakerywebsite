@@ -50,6 +50,10 @@ ul {
 	color: white;
 }
 
+.open {
+
+}
+
 
 li {
 	display: inline;
@@ -99,3 +103,4 @@ ul {
 textarea {
 	margin-bottom: 20px;
 }
+
